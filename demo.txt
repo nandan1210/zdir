@@ -1,0 +1,18 @@
+Services In AWS:
+==================
+1. IAM(Identity Access Management):
+------------------------------------
+default identity===>root user===>who can access all services and resources 
+other users====>customed access===>IAM users
+IAM group
+IAM role
+-------------------------------------------------------------------------------
+IAM===>a web service to securely contol acess to AWS resources
+---------------------------------------------------------------
+signup,login ===>basic services for every IAM user
+---------------------------------------------------------------
+Main Components Of IAM===>
+1.IAM users
+2.IAM Group
+3.IAM roles
+4.IAM Policies 
